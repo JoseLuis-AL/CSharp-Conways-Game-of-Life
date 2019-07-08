@@ -1,0 +1,7 @@
+C:\Users\PepeL\source\repos\Life Game Conway CSharp\bin\Debug\Life Game Conway CSharp.exe.config
+C:\Users\PepeL\source\repos\Life Game Conway CSharp\bin\Debug\Life Game Conway CSharp.exe
+C:\Users\PepeL\source\repos\Life Game Conway CSharp\bin\Debug\Life Game Conway CSharp.pdb
+C:\Users\PepeL\source\repos\Life Game Conway CSharp\obj\Debug\Life Game Conway CSharp.csprojAssemblyReference.cache
+C:\Users\PepeL\source\repos\Life Game Conway CSharp\obj\Debug\Life Game Conway CSharp.csproj.CoreCompileInputs.cache
+C:\Users\PepeL\source\repos\Life Game Conway CSharp\obj\Debug\Life Game Conway CSharp.exe
+C:\Users\PepeL\source\repos\Life Game Conway CSharp\obj\Debug\Life Game Conway CSharp.pdb
