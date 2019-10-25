@@ -3,10 +3,10 @@ Conway's Game of Life made in C#
 By: José Luis Aguilera Luzania
 
 
-#### Game interface:
+### Game interface:
 ![Screenshot](https://github.com/JoseLuis-AL/Conway-s-Game-of-Life-CSharp/blob/master/Imagenes/Interfaz.png)
 
-#### Generations (Advanced game):
+### Generations (Advanced game):
 Generation: 18
 ![Screenshot](https://github.com/JoseLuis-AL/Conway-s-Game-of-Life-CSharp/blob/master/Imagenes/Generation18.png)
 
