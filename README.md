@@ -1,7 +1,6 @@
 # Conway-s-Game-of-Life-CSharp
 Conway's Game of Life made in C# <br>
-
-# By: José Luis Aguilera Luzania
+By: José Luis Aguilera Luzania
 
 
 ### Game interface:
