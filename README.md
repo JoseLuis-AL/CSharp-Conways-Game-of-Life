@@ -1,4 +1,4 @@
-# Conway-s-Game-of-Life-CSharp
+# Conways Game of Life in C#
 Conway's Game of Life made in C# <br>
 By: José Luis Aguilera Luzania
 
